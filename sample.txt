@@ -1,0 +1,4 @@
+Hello People,
+I am Pratham Hegde,
+I am making a word counter project
+The purpose of this project is to count words
